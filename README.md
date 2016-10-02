@@ -1,6 +1,5 @@
-#
-# DataAccess Oracle project. Using Factory Methods pattern example.
-# 
+# DataAccess Oracle project. 
+# Using Factory Methods pattern example.
 
 .NET 4.5
 
